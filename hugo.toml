@@ -1,0 +1,74 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Fransisco Aditya"
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+Halo saya Fransisco Aditya, bisa di panggil Adit saya adalah mahasiswa ilmu komputer di universitas katolik soegijapranata. Saya memiliki ketertarikan di bidang web developer dan pengembangan diri 
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/fransisco-aditya-82928a267/"
+
+[[params.social]]
+name = "Instagram"
+url = "https://www.instagram.com/adit_ya_kan/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/fransiscoaditya"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

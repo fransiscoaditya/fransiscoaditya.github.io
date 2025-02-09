@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fransisco Aditya</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Fransisco Aditya</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Environmental Condition Monitoring Website</title>
+      <link>http://localhost:1313/posts/environmental-condition-monitoring-website/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/environmental-condition-monitoring-website/</guid>
+      <description>this post about me and my firend create project about Air quality in vietnam</description>
+    </item>
+  </channel>
+</rss>
