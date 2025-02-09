@@ -21,7 +21,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-Halo saya Fransisco Aditya, bisa di panggil Adit saya adalah mahasiswa ilmu komputer di universitas katolik soegijapranata. Saya memiliki ketertarikan di bidang web developer dan pengembangan diri 
+Hello! My name is Fransisco Aditya Widiyanto, but you can call me Adit. I am an Information Systems student at Soegijapranata Catholic University. I have a strong interest in technology, particularly web development, as well as personal development.  
+
+On this website, I will share various articles that I write randomly as a way to express my thoughts. Additionally, I want to use this platform as a writing practice to better articulate my ideas and opinions.
 """
 
 # Collection to display on home
