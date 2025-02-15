@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Fransisco Aditya</title>
-    <link>https://fransiscoaditya.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Fransisco Aditya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fransiscoaditya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Mengenai Skill Public Speaking</title>
+      <link>http://localhost:1313/posts/self-improvement/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/self-improvement/</guid>
+      <description>disini kita akan sama sama belajar mengenai berbicara di depan khalayak atau bisa di sebut dengan publik speaking, dimana ini adalah soft skill yang sangat berguna di hidup kita.</description>
+    </item>
     <item>
       <title>Environmental Condition Monitoring Website</title>
-      <link>https://fransiscoaditya.github.io/posts/environmental-condition-monitoring-website/</link>
+      <link>http://localhost:1313/posts/environmental-condition-monitoring-website/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://fransiscoaditya.github.io/posts/environmental-condition-monitoring-website/</guid>
+      <guid>http://localhost:1313/posts/environmental-condition-monitoring-website/</guid>
       <description>this post about me and my firend create project about Air quality in vietnam</description>
     </item>
   </channel>
